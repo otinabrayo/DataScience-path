@@ -16,3 +16,6 @@ Start with Miniconda installation
  - conda create --prefix ./env pandas numpy matplotlib scikit-learn
  - conda activate C:\Users\brian\Downloads\sampleProject\env
  - conda install jupyter in the env
+
+# Week 1
+  - Pandas Data analysis tool , selected and viewed, and also manipulated data with pandas
